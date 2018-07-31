@@ -1,0 +1,9 @@
+- Beautify
+- EditorConfig
+- Emoji
+- ESLint
+- Flow
+- Gitlens
+- npm intellisense
+- Vim
+- vscode-icons
