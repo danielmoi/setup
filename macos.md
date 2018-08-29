@@ -40,6 +40,12 @@ defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-t
 defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="small-spacer-tile";}'; killall Dock
 ```
 
+---
+## Screenshots
+defaults write com.apple.screencapture location ~/screenshots
+
+System Preferences > Language & Region > Time format: 24-hour time
+
 
 ---
 ## VS Code
@@ -82,6 +88,7 @@ Setup ssh key + Github
 - kubectl
 - fzf
 - htop
+- redis
 
 ----
 ## Neovim
