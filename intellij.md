@@ -6,3 +6,5 @@ View > Active Editor > Use Soft Wraps
 
 Git Toolbox
 https://plugins.jetbrains.com/plugin/7499-gittoolbox
+
+SonarLint
