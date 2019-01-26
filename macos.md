@@ -89,6 +89,7 @@ Setup ssh key + Github
 - fzf
 - htop
 - redis
+- tokei: Lines of code, Rust
 
 ----
 ## Neovim
